@@ -21,3 +21,4 @@ This is a simple client-server file transfer application built in Python. It all
 - Python 3.11.4
 - Socket library
 - hashlib library
+- streamlit 1.35.0 
